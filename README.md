@@ -24,3 +24,5 @@ docker run \
     -v /Users/<user>/.aws/credentials:/root/.aws/credentials \
     layer-policy-manager [OPTIONS]
 ```
+
+You can also install it regularly using `pip install .`. Once you do that `layer-policy-manager` should be in your `$PATH` and ready to use.
